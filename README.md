@@ -1,4 +1,4 @@
-# BAC
+# BAC - Requirements
 Progressive Web App for Mental Health Patients
 
 Required features: Login Page, 2 Factor Authentification, Dashboard showing 
@@ -19,4 +19,4 @@ Log Out button in Bar menu on top.
 
 Nice to have: Option to change color scheme of app or fonts. Sleep tracker (same as mood tracker, different icons). 
 
-I am currently working in VS Studio, with node.js for the backend and
+
